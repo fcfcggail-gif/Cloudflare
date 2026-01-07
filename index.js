@@ -5,7 +5,7 @@
 'use strict';
 
 
- - TypeScript checking disabled for Workers compatibility
+ // TypeScript checking disabled for Workers compatibility
 // This file uses patterns that may trigger false positives in TS linter
 // All code is valid JavaScript and runs perfectly in Cloudflare Workers
 
